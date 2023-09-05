@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FakePearl-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/FakePearl-Regular.woff2) format('woff2');
+}
+
+* {
+  font-family: "FakePearl-Regular", Times, sans-serif;
+}
