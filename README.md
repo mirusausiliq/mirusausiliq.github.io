@@ -22,6 +22,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-If you have any questions or need to get in touch, you can reach me via email at [your@email.com](mailto:your@email.com).
+If you have any questions or need to get in touch, you can reach me via email at [mirusausiliq@email.com](mailto:mirusausiliq@email.com).
 
 Thank you for your understanding, and I hope you find the existing content useful. 👍
